@@ -45,6 +45,7 @@ Finance and insurance
 * Reserve
 * Casper
 * Hinge
+
 #### What size startup would you like to work with (total number of employees)?
 15-150
 #### Any free text you'd like us to add when describing you to proposed host startups?
