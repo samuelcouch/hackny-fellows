@@ -82,8 +82,7 @@ Ruby
 #### Tell us why you wrote this code and what it does.*
 This block of code, while short, is incredibly powerful. It was developed for a specific purpose, I was working with a large JSON blob, and wanted to be able to dynamically create getter functions. It was tedious to do this by hand, so I developed a way to solve this dynamically, with any JSON object. The JSON data is passed to the method, the data is then converted to an OpenStruct object, then the magic happens. Using metaprogramming, `(class << self ; self ; end)` and the `class_eval` method, essentially allow you programatically redefine and manipulate the class. For me, I iterate through the OpenStruct object and assign each key-value as `att_accessor`s, this allows you to call on individual JSON keys without any additional overhead.
 #### Please provide links and descriptions of two of your favorite coding projects in any language*
-github.com/samuelcouch/clarifai : This is a client library for the Clarifai API written in Go.
-github.com/samuelcouch/jam-box : This is a desktop app that I developed in order to learn more about Electron framework.
+[github.com/samuelcouch/clarifai](https://github.com/samuelcouch/clarifai) : This is a client library for the Clarifai API written in Go.
 ## Anything else?
 #### Please share anything else you'd like to share about yourself.
 
