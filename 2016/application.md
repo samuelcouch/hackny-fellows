@@ -16,7 +16,7 @@ Once I had this information, I built a wrapper for myself that I could use to se
 
 This was a super fun project to work on. The thing that I enjoy most about this story and the project as a whole was how I originally built this for a single use case, to solve a problem that I had. That problem doesn't exist anymore (Teespring actually has a storefront feature now!), but since others had a completely different usecase, the project lives on and is continued to be used by others.
 #### Why is hackNY right for you?
-HackNY provides a tremendeous opportunity to not only grow as an individual but also grow your network of amazingly talented people. Over the past couple years I've had the chance to meet and become good friends with many of the previous HackNY fellows, each one being something that I look up to and admore greatly. While I may admire them for different things, the one common theme that they each share is an infectious passion for HackNY. To say that this fellowship ends after ten weeks during a summer would be a horrible understatment; HackNY is a family that stays together forever. Really the biggest thing for me is to be part of this community of people who care so much about the people around them and are constantly encouraging each other to be their best self.
+HackNY provides a tremendeous opportunity to not only grow as an individual but also grow your network of amazingly talented people. Over the past couple years I've had the chance to meet and become good friends with many of the previous HackNY fellows, each one being someone that I look up to and admire greatly. While I may admire them for different things, the one common theme that they each share is an infectious passion for HackNY. To say that this fellowship ends after ten weeks during a summer would be a horrible understatment; HackNY is a family that stays together forever. Really the biggest thing for me is to be part of this community of people who care so much about the people around them and are constantly encouraging each other to be their best self.
 #### Tell us about what you hope to learn this summer.
 While I am excited to learn and grow myself as an engineer, I am more excited to learn about the entreprenural side of the fellowship. I am eager for the weekly talks by New Yorks most successful tech leaders.
 #### Is there a particular technology or industry you're currently interested in? How come? Where do you see it heading in the future?
@@ -40,11 +40,11 @@ Social and entertainment
 #### What sectors would you prefer not to work in?
 Finance and insurance
 #### List five NYC startups you'd love to work at. If you're accepted, we'll do our best to match you with one of your favorites. If they're unavailable, we'll use this list to help make a great startup match for you.
-VaynerMedia
-Classpass
-Reserve
-Casper
-Hinge
+* VaynerMedia
+* Classpass
+* Reserve
+* Casper
+* Hinge
 #### What size startup would you like to work with (total number of employees)?
 15-150
 #### Any free text you'd like us to add when describing you to proposed host startups?
@@ -85,4 +85,3 @@ This block of code, while short, is incredibly powerful. It was developed for a 
 [github.com/samuelcouch/clarifai](https://github.com/samuelcouch/clarifai) : This is a client library for the Clarifai API written in Go.
 ## Anything else?
 #### Please share anything else you'd like to share about yourself.
-
