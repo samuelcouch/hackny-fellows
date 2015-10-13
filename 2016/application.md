@@ -84,5 +84,7 @@ Ruby
 This block of code, while short, is incredibly powerful. It was developed for a specific purpose, I was working with a large JSON blob, and wanted to be able to create getter functions for each JSON key. It was tedious to do this by hand, so I developed a way to solve this dynamically. The JSON data is passed to the method, the data is then converted to an OpenStruct object, then the magic happens. Using metaprogramming, `(class << self ; self ; end)` and the `class_eval` method, essentially allow you programatically redefine and manipulate the parent class. For me, I iterate through the OpenStruct object and assign each key-value as `att_accessor`'s, this allows you to call on individual JSON keys, as functions, without any additional overhead.
 #### Please provide links and descriptions of two of your favorite coding projects in any language*
 [github.com/samuelcouch/clarifai](https://github.com/samuelcouch/clarifai) : This is a client library for the Clarifai API written in Go.
+
+[github.com/samuelcouch/bullhorn](https://github.com/samuelcouch/bullhorn) : This is a sound board that I built in order to learn more about building desktop apps with the electron framework.
 ## Anything else?
 #### Please share anything else you'd like to share about yourself.
