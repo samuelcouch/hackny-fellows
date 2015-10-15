@@ -40,10 +40,10 @@ Social and entertainment
 #### What sectors would you prefer not to work in?
 Finance and insurance
 #### List five NYC startups you'd love to work at. If you're accepted, we'll do our best to match you with one of your favorites. If they're unavailable, we'll use this list to help make a great startup match for you.
-* VaynerMedia
+* Birchbox
 * Beme
 * Reserve
-* Casper
+* Button
 * Hinge
 
 #### What size startup would you like to work with (total number of employees)?
