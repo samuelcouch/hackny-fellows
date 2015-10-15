@@ -8,7 +8,7 @@ Computer Science
 Undergraduate
 ## Tell us about yourself!
 #### Tell us about a time you built something awesome in code. How did you choose it? Why did you enjoy it?
-One of my favorite projects to date is a Teespring API that I built. I didn't intend to build an API, originally I wanted a way to create a personal storefront of my Teespring campaigns that I could drop into any website and advertise my shirts. What seemed like a simple idea, a little web scraping and love, quickly turned into one of the coolest reverse engineering projects I've explored!
+One of my favorite projects to date is a Teespring API that I built. I didn't intend to build an API, originally I just wanted a way to create a personal storefront of my Teespring campaigns that I could drop into any website and advertise my shirts. What seemed like a simple idea, a little web scraping and love, quickly turned into one of the coolest reverse engineering projects I've explored!
 
 After building the first iteration and being unhappy with having to modify my web-scraper whenever their HTML changed, I started poking around the network stream for Teespring. There was a lot of noise, mainly to CDNs, but there was one that was particularly useful -- every character typed into the search bar fired off a request to a search-as-a-service that they use. Aha! This was a rabbit hole worth going down. After some more manipulation, I was actually able to come up with a plain-text version of their request, including API keys. This seemed unusual, but a test request on my end proved that it did indeed work. I went ahead and notified Teespring of what I had found, they were surprised that I had uncovered this, but since the API key was only scoped for read-only requests they weren't too worried.
 
