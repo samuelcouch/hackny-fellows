@@ -29,7 +29,9 @@ As for where I see the on-demand industry heading? I don't think we'll see it sl
 Coding: My greatest strengths technically are in backend development. I am proficient with JavaScript and Ruby, though I am also well versed using Python, Go, and Java. Beyond these five, I am also very comfortable and open to learning and using new languages and platforms.
 
 Education: I go to school at Temple University where I am classmates with Sandile Keswa, a 2014 HackNY alum. Together we co-founded TUDev; a student organization that, much like HackNY, focuses on supporting and growing the hacker community at Temple. Our community has grown from about 5 people to nearly 50 in a single semester, our MLH ranking also rose from 114th to 7th. We recently launched a new mentorship program in order to support the community in two ways:
-1) Help members learn new skills that in a welcoming environment
+
+1) Help members learn new skills in a welcoming environment
+
 2) Empower our growing community to share their knowledge and teach others
 
 Jobs: I have held many jobs, some technical others not. I currently work as a Software Engineer at SnipSnap, a startup in Philadelphia. At SnipSnap I am working on developing a realtime concierge platform to find savings opportunities while shopping. I've also worked as an Enterprise Architect at a large insurance company, I was responsible for understanding the business needs and designing technical solutions.
