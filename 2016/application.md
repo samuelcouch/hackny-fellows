@@ -26,7 +26,7 @@ Coding: My greatest strengths technically are in backend development. I am profi
 
 Education: I go to school at Temple University where I am classmates with Sandile Keswa, a 2014 HackNY alum. Together we co-founded TUDev; a student organization that, much like HackNY, focuses on supporting and growing the hacker community at Temple.
 
-Jobs: I have held many jobs, some technical others not. I currently work as a Software Engineer at SnipSnap, where I currently am working to develop a realtime concierege platform. I've also worked as an Enterprise Architect at a large insurance company, I was responsible for understanding the business needs and designing technical solutions.
+Jobs: I have held many jobs, some technical others not. I currently work as a Software Engineer at SnipSnap, a startup in Philadelphia. At SnipSnap I am working on developing a realtime concierege platform to find hidden savings while shopping. I've also worked as an Enterprise Architect at a large insurance company, I was responsible for understanding the business needs and designing technical solutions.
 
 Extras: I also have a huge passion for robotics, in my free time I spend teaching high school students about robotic control software.
 #### When you're not coding, what do you like to do for fun?
