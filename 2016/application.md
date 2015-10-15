@@ -80,6 +80,9 @@ puts test.sound_level # => 11
 # now lets change one of the values
 test.status = "still rockin"
 puts test.status # => "still rockin"
+
+puts test.inspect # => #<Demo:0x007f86b11ad418 @sound_level=11, @status="still rockin">
+
 ```
 #### What language is the code written in?*
 Ruby
