@@ -26,7 +26,7 @@ Coding: My greatest strengths technically are in backend development. I'm very p
 
 Education: I go to school at Temple University. I am classmates with Sandile Keswa, a 2014 HackNY alum, together we co-founded TUDev. TUDev is a student organization that, much like HackNY, focuses on supporting and growing the hacker community at Temple.
 
-Jobs: I have held many jobs, some technical others not. I currently work as a Software Engineer at SnipSnap. I've also worked as an Enterprise Architect at a large insurance company, I was responsible for understanding the business needs and designing technical solutions.
+Jobs: I have held many jobs, some technical others not. I currently work as a Software Engineer at SnipSnap, where I currently am . I've also worked as an Enterprise Architect at a large insurance company, I was responsible for understanding the business needs and designing technical solutions.
 
 Extras: I also have a huge passion for robotics. In my free time I spend teaching high school students about robotic control software.
 #### When you're not coding, what do you like to do for fun?
@@ -41,7 +41,7 @@ Social and entertainment
 Finance and insurance
 #### List five NYC startups you'd love to work at. If you're accepted, we'll do our best to match you with one of your favorites. If they're unavailable, we'll use this list to help make a great startup match for you.
 * VaynerMedia
-* Classpass
+* Beme
 * Reserve
 * Casper
 * Hinge
@@ -81,7 +81,7 @@ puts test.sound_level # => 11
 #### What language is the code written in?*
 Ruby
 #### Tell us why you wrote this code and what it does.*
-This block of code, while short, is incredibly powerful. It was developed for a specific purpose, I was working with a large JSON blob, and wanted to be able to create getter functions for each JSON key. It was tedious to do this by hand, so I developed a way to solve this dynamically. The JSON data is passed to the method, the data is then converted to an OpenStruct object, then the magic happens. Using metaprogramming, `(class << self ; self ; end)` and the `class_eval` method, essentially allow you programatically redefine and manipulate the parent class. For me, I iterate through the OpenStruct object and assign each key-value as `att_accessor`'s, this allows you to call on individual JSON keys, as functions, without any additional overhead.
+This block of code, while short, is incredibly powerful. It was developed for a specific purpose, I was working with a large JSON blob, and wanted to be able to create getter functions for each JSON key. It was tedious to do this by hand, so I developed a way to solve this dynamically. The JSON data is passed to the method, the data is then converted to an OpenStruct object, then the magic happens. Using metaprogramming, `(class << self ; self ; end)` and the `class_eval` method, essentially allow you programatically redefine and manipulate the parent class. For me, I iterate through the OpenStruct object and assign each key-value as `attr_accessor`'s, this allows you to call on individual JSON keys, as functions, without any additional overhead.
 #### Please provide links and descriptions of two of your favorite coding projects in any language*
 [github.com/samuelcouch/clarifai](https://github.com/samuelcouch/clarifai) : This is a client library for the Clarifai API written in Go.
 
